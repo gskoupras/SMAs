@@ -1,2 +1,2 @@
 # SMAs
-Calculates and plots all Simple Moving Averages for a given data time series.
+Calculates and plots requested Simple Moving Averages for a given data time series. The user can provide as many SMAs they want.
